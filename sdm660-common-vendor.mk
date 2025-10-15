@@ -468,7 +468,6 @@ PRODUCT_PACKAGES += \
     libscveT2T_skel \
     libvpp_svc_skel \
     libmmparserextractor \
-    libavenhancements \
     libmmosal \
     libmmparser_lite \
     vendor.qti.hardware.fm@1.0 \
